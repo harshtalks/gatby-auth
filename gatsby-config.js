@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "auth",
+    description: "learn authentication using getsby"
   },
   plugins: [
     "gatsby-plugin-image",
